@@ -1,101 +1,102 @@
 # coreutils
 
-coreutils:
-
-[
-b2sum
-base32
-base64
-basename
-basenc
-cat
-chcon
-chgrp
-chmod
-chown
-chroot
-cksum
-comm
-cp
-csplit
-cut
-date
-dd
-dir
-dirname
-du
-echo
-env
-expand
-expr
-factor
-false
-fmt
-fold
-head
-id
-install
-join
-kill
-link
-ln
-logname
-ls
-md5sum
-mkdir
-mkfifo
-mknod
-mktemp
-mv
-nice
-nl
-nohup
-nproc
-numfmt
-od
-paste
-pathchk
-pr
-printenv
-printf
-ptx
-pwd
-readlink
-realpath
-rm
-rmdir
-runcon
-seq
-sha1sum
-sha224sum
-sha256sum
-sha384sum
-sha512sum
-shred
-shuf
-sleep
-sort
-split
-shred
-shuf
-stat
-stty
-sum
-sync
-tac
-tail
-tee
-test
-timeout
-touch
-tr
-true
-truncate
-tsort
-tty
-uname
-unic
-unlink
-wc
-whoami
-yes
+<p>coreutils:
+                            </p><p>
+                            </p><p>[
+                            </p><p>b2sum
+                            </p><p>base32
+                            </p><p>base64
+                            </p><p>basename
+                            </p><p>basenc
+                            </p><p>cat
+                            </p><p>chcon
+                            </p><p>chgrp
+                            </p><p>chmod
+                            </p><p>chown
+                            </p><p>chroot
+                            </p><p>cksum
+                            </p><p>comm
+                            </p><p>cp
+                            </p><p>csplit
+                            </p><p>cut
+                            </p><p>date
+                            </p><p>dd
+                            </p><p>dir
+                            </p><p>dirname
+                            </p><p>du
+                            </p><p>echo
+                            </p><p>env
+                            </p><p>expand
+                            </p><p>expr
+                            </p><p>factor
+                            </p><p>false
+                            </p><p>fmt
+                            </p><p>fold
+                            </p><p>head
+                            </p><p>id
+                            </p><p>install
+                            </p><p>join
+                            </p><p>kill
+                            </p><p>link
+                            </p><p>ln
+                            </p><p>logname
+                            </p><p>ls
+                            </p><p>md5sum
+                            </p><p>mkdir
+                            </p><p>mkfifo
+                            </p><p>mknod
+                            </p><p>mktemp
+                            </p><p>mv
+                            </p><p>nice
+                            </p><p>nl
+                            </p><p>nohup
+                            </p><p>nproc
+                            </p><p>numfmt
+                            </p><p>od
+                            </p><p>paste
+                            </p><p>pathchk
+                            </p><p>pr
+                            </p><p>printenv
+                            </p><p>printf
+                            </p><p>ptx
+                            </p><p>pwd
+                            </p><p>readlink
+                            </p><p>realpath
+                            </p><p>rm
+                            </p><p>rmdir
+                            </p><p>runcon
+                            </p><p>seq
+                            </p><p>sha1sum
+                            </p><p>sha224sum
+                            </p><p>sha256sum
+                            </p><p>sha384sum
+                            </p><p>sha512sum
+                            </p><p>shred
+                            </p><p>shuf
+                            </p><p>sleep
+                            </p><p>sort
+                            </p><p>split
+                            </p><p>shred
+                            </p><p>shuf
+                            </p><p>stat
+                            </p><p>stty
+                            </p><p>sum
+                            </p><p>sync
+                            </p><p>tac
+                            </p><p>tail
+                            </p><p>tee
+                            </p><p>test
+                            </p><p>timeout
+                            </p><p>touch
+                            </p><p>tr
+                            </p><p>true
+                            </p><p>truncate
+                            </p><p>tsort
+                            </p><p>tty
+                            </p><p>uname
+                            </p><p>unic
+                            </p><p>unlink
+                            </p><p>wc
+                            </p><p>whoami
+                            </p><p>yes
+                            </p>
